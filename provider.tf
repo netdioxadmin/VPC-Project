@@ -9,7 +9,7 @@ terraform {
 }
 #Config The Aws Provierr
 provider "aws" {
-  region                  = var.region
+  region                   = var.region
   shared_credentials_files = ["~/.aws/credentials"]
 
 }

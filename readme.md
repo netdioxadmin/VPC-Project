@@ -30,8 +30,10 @@ Before using this Terraform code, ensure that you have the following prerequisit
 - An AWS account with appropriate permissions to create and manage resources
 - Terraform installed on your local machine (version 0.12 or above)
 ## AWS Credentials
- - You have to configure your AWS Cli with your access and secret key first. 
+ - You have to configure your AWS Cli with your access and secret key first. (This prevents you from accidently committing your key to GitHub)
+ - You can also provide your access and secret key in variables.tf
  - Ref : **[Aws Provider Doc](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)**
+
 ## **Getting Started**
 
 To use this project, follow the steps below:
