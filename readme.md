@@ -12,6 +12,8 @@ This project contains Terraform code to create and configure infrastructure reso
 - NAT Gateway
 - Auto Scaling Group
 - Launch Template
+# Diagram 
+![VPC_Infra](https://s3.ap-south-1.amazonaws.com/cloudfront.samv.tech/VPC_Infra.png)
 
 # Features
 The project provides the following features:
