@@ -81,8 +81,8 @@ The project directory contains the following files:
 - **`variables.tf`**: Contains variable definitions used in the Terraform configuration.
 - **`outputs.tf`**: Defines the outputs that are displayed after running **`terraform apply`**.
 - **`README.md`**: This documentation file.
-- **`securitygroup_Bastion.tf`**: Defines the Security Group for Bastion or jump server
-- **`securitygroup_LB.tf`** : Defines the Security Group for Load Balancer and Instances created by load Balancer
+- **`securitygroup_Bastion.tf`**: Defines the Security Group for Bastion or jump server.
+- **`securitygroup_LB.tf`** : Defines the Security Group for Load Balancer and Instances created by load Balancer.
 
 ## **Outputs**
 
