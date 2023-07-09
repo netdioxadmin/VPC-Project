@@ -113,5 +113,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## **Acknowledgements**
 
-Special thanks to the Terraform community and **[Abhishek Veeramalla](https://github.com/iam-veeramalla)** for their valuable contributions and support.
+Special thanks to the Terraform community and **[Abhishek Veeramalla](https://github.com/iam-veeramalla)** and **[Fuji Komalan](https://github.com/fujikomalan)** for their valuable contributions and support.
 
