@@ -13,7 +13,7 @@ This project contains Terraform code to create and configure infrastructure reso
 - Auto Scaling Group
 - Launch Template
 
-#Features
+# Features
 The project provides the following features:
 
 - Creation of a VPC with public and private subnets
