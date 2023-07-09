@@ -1,8 +1,8 @@
 variable "access_key" {
-  default = "<Access Key Go here>"
+  default = "AKIAS66XK635HUMPHY6D"
 }
 variable "secret_key" {
-  default = "<Secret Key Go hear>"
+  default = "gQMYEwFnyib8tW7FVsu11tcqZjh3FJxgTe8SwvG4"
 
 }
 variable "region" {
