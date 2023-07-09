@@ -77,6 +77,8 @@ The project directory contains the following files:
 - **`variables.tf`**: Contains variable definitions used in the Terraform configuration.
 - **`outputs.tf`**: Defines the outputs that are displayed after running **`terraform apply`**.
 - **`README.md`**: This documentation file.
+- **`securitygroup_Bastion.tf`**: Defines the Security Group for Bastion or jump server
+- **`securitygroup_LB.tf`** : Defines the Security Group for Load Balancer and Instances created by load Balancer
 
 ## **Outputs**
 
@@ -99,7 +101,7 @@ Confirm the destruction by typing **`yes`** when prompted.
 
 ## **License**
 
-This project is licensed under the **[MIT License](https://chat.openai.com/LICENSE)**. Feel free to modify and distribute this code as needed.
+This project is licensed under the **[GNU General Public License v3.0](https://github.com/netdioxadmin/VPC-Project/blob/main/LICENSE)**. Feel free to modify and distribute this code as needed.
 
 ## **Contributing**
 
@@ -107,5 +109,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## **Acknowledgements**
 
-Special thanks to the Terraform community for their valuable contributions and support.
+Special thanks to the Terraform community and **[Abhishek Veeramalla](https://github.com/iam-veeramalla)** for their valuable contributions and support.
 
